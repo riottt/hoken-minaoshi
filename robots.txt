@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://riottt.github.io/hoken-minaoshi/sitemap.xml
